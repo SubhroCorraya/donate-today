@@ -172,3 +172,11 @@ input[type=button] {
     font-size: 10px;
     border-radius: 5px 0 0 5px;
 }
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: yellowgreen;
+    padding: 30px;
+    font-size: 15px;
+}
